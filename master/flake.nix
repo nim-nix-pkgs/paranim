@@ -11,7 +11,6 @@
   inputs.src-paranim-master.ref   = "refs/heads/master";
   inputs.src-paranim-master.owner = "paranim";
   inputs.src-paranim-master.repo  = "paranim";
-  inputs.src-paranim-master.dir   = "";
   inputs.src-paranim-master.type  = "github";
   
   inputs."nimgl".owner = "nim-nix-pkgs";
